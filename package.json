@@ -1,0 +1,21 @@
+{
+  "name": "nutritionmap",
+  "version": "1.0.0",
+  "description": "Calorie tracker and nutrition facts finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrustierSquid/NutritionMap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TrustierSquid/NutritionMap/issues"
+  },
+  "homepage": "https://github.com/TrustierSquid/NutritionMap#readme"
+}
